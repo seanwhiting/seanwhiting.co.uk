@@ -8,3 +8,4 @@ This will be followed by implementation of a blog and an about page.
 ### Major updates
 
 * 12-Jan-2015 First implementation of page header, creation of repo.
+* 16-Jan-2015 Social icons complete, site live at http://seanwhiting.github.io/seanwhiting.co.uk/
